@@ -9357,7 +9357,7 @@
                     "sub_tasks": [
                         {
                             "id": "d59425d1-58ab-491f-8901-2789f369a606",
-                            "requirements": "The recorded Exact Match Drop Ratios show that the ground truth forgetting replay method has the lowest Exact Match Drop Ratio for the BART0 and FLAN-T5_{Large} model, dataset and fine-tuning setups; for the FLAN-T5_{3B} LoRA setup, the representation based forecasting method ranks first, random replay ranks second, and the ground truth forgetting replay method ranks third.",
+                            "requirements": "The recorded Exact Match Drop Ratios show that the ground truth forgetting replay method has the lowest Exact Match Drop Ratio for BART0 and FLAN-T5 Large setups; for FLAN-T5 3B with LoRA, the representation based forecasting method has the lowest Exact Match Drop Ratio, random replay is second, and ground truth forgetting replay is third.",
                             "weight": 1,
                             "sub_tasks": [],
                             "task_category": "Result Analysis",
@@ -9365,7 +9365,7 @@
                         },
                         {
                             "id": "2989e54d-5471-468f-a448-4bec0573878b",
-                            "requirements": "The recorded Exact Match Drop Ratios show that the replay with representation based forecasting method has the second lowest Exact Match Drop Ratios for the BART0 and FLAN-T5_{Large} model, dataset and fine-tuning setups, second only to the ground truth forgetting replay method; for the FLAN-T5_{3B} LoRA setup, the representation based forecasting method ranks first, random replay ranks second, and the ground truth forgetting replay method ranks third.",
+                            "requirements": "The recorded Exact Match Drop Ratios show that the replay with representation based forecasting method has the second lowest Exact Match Drop Ratios for BART0 and FLAN-T5 Large setups, second only to the ground truth forgetting replay method; for FLAN-T5 3B with LoRA, the representation based forecasting method has the lowest Exact Match Drop Ratio, followed by random replay and then ground truth forgetting replay.",
                             "weight": 1,
                             "sub_tasks": [],
                             "task_category": "Result Analysis",

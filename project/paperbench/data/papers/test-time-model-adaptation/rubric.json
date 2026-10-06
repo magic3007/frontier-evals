@@ -1667,7 +1667,7 @@
                                     "sub_tasks": [
                                         {
                                             "id": "a7aee4f5-952e-4baa-8925-0ec7fc0266e7",
-                                            "requirements": "FOA improves accuracy over BNAdapt while having higher ECE.",
+                                            "requirements": "FOA has higher accuracy than BNAdapt (22.6% vs 16.0%) but higher ECE (1.7% vs 1.3%).",
                                             "weight": 1,
                                             "sub_tasks": [],
                                             "task_category": "Result Analysis",
